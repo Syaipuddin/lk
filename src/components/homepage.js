@@ -144,7 +144,7 @@ class HomePage extends Component {
                     <Container>
                         <Homepage to="/">
                                 <Mini>Program Desa Binaan</Mini>
-                                Lubuk Kaseh
+                                Sayur Matua
                                 <Med>Universitas Sumatera Utara</Med>
                         </Homepage>
                         {/* <SHomepage to ="/pengajuan">Pengaduan Online</SHomepage> */}
